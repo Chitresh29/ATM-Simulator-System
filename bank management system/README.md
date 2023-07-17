@@ -22,6 +22,7 @@ Change PIN: Users have the option to change their PIN for added security.
 **How to Run:**
 
 Clone the repository to your local machine.
+  
   javac *.java
 
 
@@ -32,6 +33,7 @@ Open the terminal or command prompt and navigate to the project directory.
 Compile the java files using the following command: 
   
   javac *.java
+
 
 Run the ATM Simulator using the following command:
 
