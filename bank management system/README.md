@@ -1,9 +1,11 @@
-ATM Simulator using Java Swing and AWT
+**ATM Simulator using Java Swing and AWT**
 
 **Description:**
+
 This is an ATM simulator application built using Java Swing and AWT libraries. The simulator aims to provide users with a virtual ATM experience, allowing them to perform various banking operations like checking balance, withdrawing funds, depositing money, and changing their PIN.
 
-Features:
+**Features:**
+
 User Login: Users can log in with their account number and PIN to access their accounts securely.
 
 Account Balance: Once logged in, users can view their account balance.
@@ -14,9 +16,12 @@ Deposit: Users can deposit money into their accounts.
 
 Change PIN: Users have the option to change their PIN for added security.
 
-How to Run:
+
+**How to Run:**
 
 Clone the repository to your local machine.
+> javac *.java
+
 
 Ensure you have Java Development Kit (JDK) installed.
 
